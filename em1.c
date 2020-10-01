@@ -5,7 +5,7 @@
 int main()
 {
     double fa, ua, ub, uab, a;
-    /*fa = force acting on block A due to above pipe, ua = coefficient of friction between block A and wall*/
+    /*fa = force acting on block A due to above pipe, ua = Coefficient of friction between Block A and Wall*/
     /*ub = coefficient of friction between block B and wall, uab = coefficient of friction between block A and block B*/
     /*a = Angle of inclination*/
     printf("Enter the force acting on the pipe(Placed on Block A): ");
